@@ -1,4 +1,4 @@
-//compile with gcc main.c canny.c -o p -O2 -lm
+
 
 
 #include "canny.h"
